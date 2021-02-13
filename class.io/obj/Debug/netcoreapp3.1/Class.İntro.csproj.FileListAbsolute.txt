@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\kampİntro\class.io\bin\Debug\netcoreapp3.1\Class.İntro.exe
+C:\Users\asus\source\repos\kampİntro\class.io\bin\Debug\netcoreapp3.1\Class.İntro.deps.json
+C:\Users\asus\source\repos\kampİntro\class.io\bin\Debug\netcoreapp3.1\Class.İntro.runtimeconfig.json
+C:\Users\asus\source\repos\kampİntro\class.io\bin\Debug\netcoreapp3.1\Class.İntro.runtimeconfig.dev.json
+C:\Users\asus\source\repos\kampİntro\class.io\bin\Debug\netcoreapp3.1\Class.İntro.dll
+C:\Users\asus\source\repos\kampİntro\class.io\bin\Debug\netcoreapp3.1\Class.İntro.pdb
+C:\Users\asus\source\repos\kampİntro\class.io\obj\Debug\netcoreapp3.1\Class.İntro.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\kampİntro\class.io\obj\Debug\netcoreapp3.1\Class.İntro.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\kampİntro\class.io\obj\Debug\netcoreapp3.1\Class.İntro.AssemblyInfo.cs
+C:\Users\asus\source\repos\kampİntro\class.io\obj\Debug\netcoreapp3.1\Class.İntro.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\kampİntro\class.io\obj\Debug\netcoreapp3.1\Class.İntro.dll
+C:\Users\asus\source\repos\kampİntro\class.io\obj\Debug\netcoreapp3.1\Class.İntro.pdb
+C:\Users\asus\source\repos\kampİntro\class.io\obj\Debug\netcoreapp3.1\Class.İntro.genruntimeconfig.cache

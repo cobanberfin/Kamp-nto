@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\kampİntro\metotlar\bin\Debug\netcoreapp3.1\metotlar.exe
+C:\Users\asus\source\repos\kampİntro\metotlar\bin\Debug\netcoreapp3.1\metotlar.deps.json
+C:\Users\asus\source\repos\kampİntro\metotlar\bin\Debug\netcoreapp3.1\metotlar.runtimeconfig.json
+C:\Users\asus\source\repos\kampİntro\metotlar\bin\Debug\netcoreapp3.1\metotlar.runtimeconfig.dev.json
+C:\Users\asus\source\repos\kampİntro\metotlar\bin\Debug\netcoreapp3.1\metotlar.dll
+C:\Users\asus\source\repos\kampİntro\metotlar\bin\Debug\netcoreapp3.1\metotlar.pdb
+C:\Users\asus\source\repos\kampİntro\metotlar\obj\Debug\netcoreapp3.1\metotlar.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\kampİntro\metotlar\obj\Debug\netcoreapp3.1\metotlar.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\kampİntro\metotlar\obj\Debug\netcoreapp3.1\metotlar.AssemblyInfo.cs
+C:\Users\asus\source\repos\kampİntro\metotlar\obj\Debug\netcoreapp3.1\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\kampİntro\metotlar\obj\Debug\netcoreapp3.1\metotlar.dll
+C:\Users\asus\source\repos\kampİntro\metotlar\obj\Debug\netcoreapp3.1\metotlar.pdb
+C:\Users\asus\source\repos\kampİntro\metotlar\obj\Debug\netcoreapp3.1\metotlar.genruntimeconfig.cache

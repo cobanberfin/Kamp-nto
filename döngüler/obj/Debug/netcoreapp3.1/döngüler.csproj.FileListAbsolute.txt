@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\kampİntro\döngüler\bin\Debug\netcoreapp3.1\döngüler.exe
+C:\Users\asus\source\repos\kampİntro\döngüler\bin\Debug\netcoreapp3.1\döngüler.deps.json
+C:\Users\asus\source\repos\kampİntro\döngüler\bin\Debug\netcoreapp3.1\döngüler.runtimeconfig.json
+C:\Users\asus\source\repos\kampİntro\döngüler\bin\Debug\netcoreapp3.1\döngüler.runtimeconfig.dev.json
+C:\Users\asus\source\repos\kampİntro\döngüler\bin\Debug\netcoreapp3.1\döngüler.dll
+C:\Users\asus\source\repos\kampİntro\döngüler\bin\Debug\netcoreapp3.1\döngüler.pdb
+C:\Users\asus\source\repos\kampİntro\döngüler\obj\Debug\netcoreapp3.1\döngüler.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\kampİntro\döngüler\obj\Debug\netcoreapp3.1\döngüler.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\kampİntro\döngüler\obj\Debug\netcoreapp3.1\döngüler.AssemblyInfo.cs
+C:\Users\asus\source\repos\kampİntro\döngüler\obj\Debug\netcoreapp3.1\döngüler.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\kampİntro\döngüler\obj\Debug\netcoreapp3.1\döngüler.dll
+C:\Users\asus\source\repos\kampİntro\döngüler\obj\Debug\netcoreapp3.1\döngüler.pdb
+C:\Users\asus\source\repos\kampİntro\döngüler\obj\Debug\netcoreapp3.1\döngüler.genruntimeconfig.cache

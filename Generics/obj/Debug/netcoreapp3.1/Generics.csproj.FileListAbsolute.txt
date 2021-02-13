@@ -1,0 +1,4 @@
+C:\Users\asus\source\repos\kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\asus\source\repos\kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache

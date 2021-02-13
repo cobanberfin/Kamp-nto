@@ -1,0 +1,4 @@
+C:\Users\asus\source\repos\kampİntro\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\kampİntro\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\kampİntro\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.AssemblyInfo.cs
+C:\Users\asus\source\repos\kampİntro\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.csproj.CoreCompileInputs.cache
